@@ -1,1 +1,1 @@
-# Exercises-Answers-Java-SE-8-For-The-Really-Impatient 
+My solutions for exercises in book Java SE 8 for the Really Impatient by Cay Horstmann http://www.horstmann.com/java8/index.html
